@@ -11,7 +11,7 @@
 [![Version](https://img.shields.io/badge/VERSION-1.0.0-purple?style=for-the-badge)](https://github.com/VengeanceUtilities/VengeanceDesktop/releases/latest)
 [![Platform](https://img.shields.io/badge/PLATFORM-WINDOWS%20x64-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/VengeanceUtilities/VengeanceDesktop/releases)
 [![Website](https://img.shields.io/badge/WEBSITE-vengeanceutilities.de-blue?style=for-the-badge)](https://vengeanceutilities.de)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-@GODLYECHELON-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/godlyechelon)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-@upperechelon.dev-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/UpperEchelon.dev)
 [![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red?style=for-the-badge)](LICENSE)
 
 <br/>
