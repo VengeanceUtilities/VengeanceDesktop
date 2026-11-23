@@ -12,7 +12,7 @@
 [![Platform](https://img.shields.io/badge/PLATFORM-WINDOWS%20x64-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/VengeanceUtilities/VengeanceDesktop/releases)
 [![Website](https://img.shields.io/badge/WEBSITE-vengeanceutilities.de-blue?style=for-the-badge)](https://vengeanceutilities.de)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-@GODLYECHELON-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/godlyechelon)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red?style=for-the-badge)](LICENSE)
 
 <br/>
 
@@ -114,7 +114,7 @@
 
 ## License
 
-Distributed under the **MIT License**. See the `LICENSE` file in this repository for details.
+**All Rights Reserved** — Copyright (c) 2026 VengeanceUtilities (UpperEchelon). See the `LICENSE` file for details.
 
 > Actively maintained and updated regularly. Found a bug or have a feature idea? Reach out on Discord or Instagram:
 >
