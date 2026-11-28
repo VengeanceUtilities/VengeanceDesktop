@@ -28,6 +28,8 @@
 
 **Vengeance Desktop** brings **YouTube Music**, **SoundCloud**, **Spotify playlists**, and your **local audio library** together in a single, ad-free desktop client. Built with Electron and a custom Web-Audio DSP pipeline, version **1.0.0** features a GPU-composited Liquid Glass UI with an animated moonlit sky backdrop, live BPM & musical key detection, a click-through Gaming HUD overlay, and built-in offline downloads with waveform trimming.
 
+No account or subscription required. No tracking or telemetry. Never.
+
 ---
 
 ## Screenshots
